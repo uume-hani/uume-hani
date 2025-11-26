@@ -26,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uume-hani&show_icons=true&locale=en&layout=compact" alt="uume-hani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uume-hani&show_icons=true&locale=en" alt="uume-hani" /></</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uume-hani&" alt=https://www.google.com/imgres/"/></</p>
-<p><img align="left" src="https://www.google.com/imgres?q=github%20snack%20streak%20png&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fc4c3f27172295114832df375098d069819358173e6fd1160eb69e4a00cfe437c%2F68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67&imgrefurl=https%3A%2F%2Fgithub.com%2FDenverCoder1%2Fgithub-readme-streak-stats&docid=Wb4Zirl_0QspQM&tbnid=LCQpxAQ7x6XHfM&vet=12ahUKEwjC0ODbnZCRAxVuVUEAHefAKrQQM3oECCMQAA..i&w=495&h=195&hcb=2&ved=2ahUKEwjC0ODbnZCRAxVuVUEAHefAKrQQM3oECCMQAA"/></</p>
-
