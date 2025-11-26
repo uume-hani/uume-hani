@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uume-hani" alt="uume-hani" /></a> </p>
 
-- 🌱 I’m currently learning **web & app development**
+- 🌱 I’m currently learning **web & app development.**
 
-- 👯 I’m looking to collaborate on **Local Projects related to tech**
+- 👯 I’m looking to collaborate on **Local Projects related to tech.**
 
 - 💬 Ask me about **Html, Css,Github Many more..**
 
 - 📫 How to reach me **https://github.com/uume-hani**
 
-- ⚡ Fun fact **I am good at cloning website design**
+- ⚡ Fun fact **I am good at cloning website design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uume-hani&show_icons=true&locale=en&layout=compact" alt="uume-hani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uume-hani&show_icons=true&locale=en" alt="uume-hani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uume-hani&" alt="uume-hani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uume-hani&show_icons=true&locale=en" alt="uume-hani" /></</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uume-hani&" alt=https://www.google.com/imgres?/</p>
+<p><img align="center" src="https://www.google.com/imgres?q=github%20snack%20streak%20jif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fc4c3f27172295114832df375098d069819358173e6fd1160eb69e4a00cfe437c%2F68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67&imgrefurl=https%3A%2F%2Fgithub.com%2FDenverCoder1%2Fgithub-readme-streak-stats&docid=Wb4Zirl_0QspQM&tbnid=LCQpxAQ7x6XHfM&vet=12ahUKEwjX37DL2o-RAxWUUaQEHQFnHGAQM3oECBgQAA..i&w=495&h=195&hcb=2&ved=2ahUKEwjX37DL2o-RAxWUUaQEHQFnHGAQM3oECBgQAA" /</p>
