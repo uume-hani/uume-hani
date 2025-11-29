@@ -16,8 +16,9 @@
 - ⚡ Fun fact **I am good at cloning website design.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/umehani-m-irfan-2ab96238b/" /></a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img 
